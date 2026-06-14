@@ -1,0 +1,6 @@
+{
+  "name": "Lunor Dashboard",
+  "description": "Multi-language (Uzbek & English) premium contract and business workspace dashboard styled like Lunor. Includes interactive folders, contract builder, analytics charts, client management, and premium subscription controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
